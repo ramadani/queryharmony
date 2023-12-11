@@ -1,0 +1,5 @@
+development:
+  dialect: postgres
+  datasource: "user=root password=secret dbname=queryharmony sslmode=disable"
+  dir: postgres
+  table: db_migrations

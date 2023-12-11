@@ -19,3 +19,9 @@
 
 # Go workspace file
 go.work
+
+# Ignore .DS_Store files
+.DS_Store
+
+# Config
+dbconfig.yml
